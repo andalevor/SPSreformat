@@ -95,7 +95,7 @@ myX = OverrideX()
 with open(sys.argv[1]) as file:
     for line in file:
         if line.startswith("H"):
-            print(line)
+            print(line, end="")
         elif line.startswith("R"):
             print(RS.format(myRS.parse(line)))
         elif line.startswith("S"):
