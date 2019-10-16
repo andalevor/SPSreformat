@@ -1,2 +1,2 @@
 # SPSreformat
-Simple script to reformat your non-standard SPS (rev1) file.
+Simple script ащк non-standard SPS (rev1) files reformatting.
